@@ -175,6 +175,9 @@ I actively maintain and contribute to algorithmic and software repositories on G
 ## 🔀 Recently Merged Pull Requests
 
 <!--START_SECTION:pr-->
+| Repository | Pull Request | Merged On |
+|---|---|---|
+| [amankv1234/CAREER-SETU---AI](https://github.com/amankv1234/CAREER-SETU---AI) | [Ankit first PR](https://github.com/amankv1234/CAREER-SETU---AI/pull/3) | 2026-04-14 |
 <!--END_SECTION:pr-->
 
 *This table is fetched automatically from the GitHub API and updated daily by [`update-prs.yml`](.github/workflows/update-prs.yml).* 
